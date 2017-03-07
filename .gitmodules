@@ -1,0 +1,9 @@
+[submodule "WebContent"]
+	path = WebContent
+	url = C:\\Users\\Karimi\\Desktop\\viratech\\workspaceNew\\ChatServlet\\WebContent
+[submodule "src"]
+	path = src
+	url = ../ChatServlet
+[submodule "build/classes"]
+	path = build/classes
+	url = ../ChatServlet
